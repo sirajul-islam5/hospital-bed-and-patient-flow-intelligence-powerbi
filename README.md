@@ -78,11 +78,8 @@ All visuals update dynamically based on slicer selections, allowing for deep dri
 ## 👤 Author
 
 **Md. Sirajul Islam**
-
-Data Aspirant | Power BI Enthusiast
-
+| Data Aspirant | Power BI Enthusiast
 📎 linkedin.com/in/md-sirajul-islam57
-
 🐙 github.com/sirajul-islam5 
 
 ---
