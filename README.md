@@ -1,6 +1,6 @@
 # 🏥 Hospital Bed & Patient Flow Intelligence — Power BI Project
 
-An interactive Power BI dashboard built to analyze hospital operations, patient flow, bed occupancy, and wait time trends across departments and admission types. This is a self-made project designed to apply and demonstrate my data analytics skills in a real-world healthcare context.
+An interactive Power BI dashboard built to analyze hospital operations, patient flow, bed occupancy, and wait time trends across departments and admission types. This is a self-made project designed to apply and demonstrate my data analytics skills in a real-world healthcare context. 
 
 ---
 
