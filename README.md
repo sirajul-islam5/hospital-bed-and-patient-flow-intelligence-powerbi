@@ -75,10 +75,15 @@ All visuals update dynamically based on slicer selections, allowing for deep dri
 
 ---
 
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
 ## 👤 Author
 
-**Md. Sirajul Islam**   
-Data Aspirant | Power BI Enthusiast   
+**Md. Sirajul Islam**    
 📎 linkedin.com/in/md-sirajul-islam57   
 🐙 github.com/sirajul-islam5    
 
