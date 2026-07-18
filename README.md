@@ -8,7 +8,9 @@ An interactive Power BI dashboard built to analyze hospital operations, patient 
 
 Hospitals deal with enormous amounts of operational data every day — patient admissions, bed availability, wait times, and department loads. This dashboard was built to make sense of that data and answer the questions that hospital administrators genuinely need answered: Which wards are overloaded? Are wait times getting worse? Which departments keep patients the longest?
 
-The dataset covers patient records across 6 departments, 6 age groups, 3 admission types, and multiple diagnosis categories — giving a comprehensive picture of hospital performance across a full year. 
+The dataset covers patient records across 6 departments, 6 age groups, 3 admission types, and multiple diagnosis categories — giving a comprehensive picture of hospital performance across a full year.  
+
+![Dashboard Overview](Screenshot.png)
 
 ---
 
