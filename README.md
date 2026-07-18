@@ -86,9 +86,9 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Md. Sirajul Islam**    
-📎 linkedin.com/in/md-sirajul-islam57   
-🐙 github.com/sirajul-islam5    
+- linkedin.com/in/md-sirajul-islam57   
+- github.com/sirajul-islam5    
 
 ---
 
-> *This is a self-made project created for learning and portfolio purposes.*
+> *This is a self-driven project created for learning purpose.*
