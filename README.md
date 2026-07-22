@@ -14,7 +14,7 @@ The dataset covers patient records across 6 departments, 6 age groups, 3 admissi
 
 ---
 
-## 📊 Dashboard Sections
+## Dashboard Sections
 
 **1. Are Wait Times Getting Worse Over the Year?**
 - Line chart tracking average patient wait times month by month from January through December
