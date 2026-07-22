@@ -1,10 +1,10 @@
-# 🏥 Hospital Bed & Patient Flow Intelligence — Power BI Project
+# Hospital Bed & Patient Flow Intelligence — Power BI Project
 
 An interactive Power BI dashboard built to analyze hospital operations, patient flow, bed occupancy, and wait time trends across departments and admission types. This is a self-made project designed to apply and demonstrate my data analytics skills in a real-world healthcare context.  
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Hospitals deal with enormous amounts of operational data every day — patient admissions, bed availability, wait times, and department loads. This dashboard was built to make sense of that data and answer the questions that hospital administrators genuinely need answered: Which wards are overloaded? Are wait times getting worse? Which departments keep patients the longest?
 
@@ -40,7 +40,7 @@ The dataset covers patient records across 6 departments, 6 age groups, 3 admissi
 
 ---
 
-## 🎛️ Interactive Slicers / Filters
+## Interactive Slicers / Filters
 
 | Slicer | Options |
 |--------|---------|
@@ -52,7 +52,7 @@ All visuals update dynamically based on slicer selections, allowing for deep dri
 
 ---
 
-## 🛠️ Tools & Features Used
+## Tools & Features Used
 
 - Microsoft Power BI Desktop
 - Data Modeling & Relationships
@@ -67,7 +67,7 @@ All visuals update dynamically based on slicer selections, allowing for deep dri
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 
 - How to frame a dashboard around real business/operational questions rather than just displaying numbers
 - Building visuals that tell a story from the data
@@ -77,13 +77,13 @@ All visuals update dynamically based on slicer selections, allowing for deep dri
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Author
+## Author
 
 **Md. Sirajul Islam**    
 - linkedin.com/in/md-sirajul-islam57   
